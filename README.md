@@ -1,0 +1,2 @@
+# SQL-Practical
+coding praticals
